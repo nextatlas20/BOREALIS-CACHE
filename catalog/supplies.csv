@@ -1,0 +1,5 @@
+sku,category,on_hand,unit_weight_g
+BAT-12,power,10,480
+BLK-02,warmth,7,900
+MED-01,medical,5,120
+WTR-04,water,12,750
