@@ -1,0 +1,5 @@
+sku,category,starting_units,allocated_units,remaining_units
+BAT-12,power,10,10,0
+BLK-02,warmth,7,3,4
+MED-01,medical,5,5,0
+WTR-04,water,12,12,0

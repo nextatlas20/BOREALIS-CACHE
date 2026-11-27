@@ -1,0 +1,4 @@
+shelter,valid_requests,requested_units,allocated_units,unfilled_units,allocated_weight_g
+Harbor,3,12,10,2,5700
+Meadow,2,10,10,0,4980
+Ridge,2,15,10,5,6420
