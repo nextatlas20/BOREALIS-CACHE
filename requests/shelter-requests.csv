@@ -1,0 +1,13 @@
+request_id,shelter,sku,priority,quantity
+RQ-201,Harbor,BAT-12,1,6
+RQ-202,Ridge,BAT-12,2,7
+RQ-203,Harbor,BLK-02,2,3
+RQ-204,Meadow,MED-01,1,4
+RQ-205,Ridge,WTR-04,3,8
+RQ-206,Meadow,WTR-04,1,6
+RQ-207,Harbor,BLK-02,1,2
+RQ-207,Ridge,MED-01,2,1
+RQ-208,Meadow,TNT-99,1,2
+RQ-209,Harbor,BAT-12,0,2
+RQ-210,Ridge,BLK-02,2,03
+RQ-211,Harbor,MED-01,1,3
